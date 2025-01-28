@@ -2,7 +2,7 @@
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-1476-cyan?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/Pollock)  [![CodeChef](https://img.shields.io/badge/CodeChef-1835-purple?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/pollock_12)    [![AtCoder](https://img.shields.io/badge/AtCoder-675-brightgreen?style=for-the-badge&logo=atcoder)](https://atcoder.jp/users/Pollock)  [![LeetCode](https://img.shields.io/badge/LeetCode-1789-blue?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/pollock_12/)
 ---
-![Total problems solved](https://img.shields.io/badge/Total%20problems%20solved-~4000-brightgreen?style=for-the-badge&logoColor=white&logo=toph)
+![Total problems solved](https://img.shields.io/badge/Total%20problems%20solved-~2500-brightgreen?style=for-the-badge&logoColor=white&logo=toph)
 > ## Others Online judge accounts
 <!--
 [![Light ](https://img.shields.io/badge/LightOj%20-pollock-brightgreen?style=for-the-badge&logo=lightroom)](https://lightoj.com/user/pollock)    [![Toph](https://img.shields.io/badge/Toph%20-Pollock-brightgreen?style=for-the-badge&logoColor=white&logo=toph)](https://toph.co/u/pollock)  [![Hackerrank](https://img.shields.io/badge/Hackerrank%20-A_Big_Zero-brightgreen?style=for-the-badge&logoColor=white&logo=toph)](https://www.hackerrank.com/profile/A_Big_Zero) [![Vjudge](https://img.shields.io/badge/Vjudge%20-A_Big_Zero-brightgreen?style=for-the-badge&logoColor=white&logo=toph)](https://vjudge.net/user/Atahar_pollock) [![CSES](https://img.shields.io/badge/CSES%20-Pollock-brightgreen?style=for-the-badge&logoColor=white&logo=toph)](https://cses.fi/user/75700) 
